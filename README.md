@@ -1,3 +1,3 @@
 # games
 
-https://massa-kj.github.io/games/
+https://masa-kjm.github.io/games/
